@@ -1,4 +1,4 @@
-# c-HTP_18.12 
+# cPlusPlusHTP_18.12
 
 Write a program that plays the game of Hangman. The program should pick a word (which is either coded directly into the program or read from a text file) and display the following:
 
